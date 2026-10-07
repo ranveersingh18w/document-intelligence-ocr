@@ -1,0 +1,54 @@
+# ── Virtual Environment ─────────────────
+ocr_env/
+venv/
+.venv/
+env/
+
+# ── Model Weights (download via download_model.py) ──
+models/DeepSeek-OCR-2/model-00001-of-000001.safetensors
+models/DeepSeek-OCR-2/model*.safetensors
+models/DeepSeek-OCR-2/.cache/
+
+# ── Temp / Output files ────────────────
+temp/
+__pycache__/
+*.pyc
+*.pyo
+
+# ── OS Files ───────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Test/Debug output files ────────────
+*.csv
+*.xlsx
+test_*.json
+
+# ── Sample images (not needed in repo) ─
+L_2F_Balance_sheet_example.png
+
+# Local secrets, logs and generated data
+.env
+.env.*
+!.env.example
+*.log
+outputs/
+# Upstream promotional assets are not application demo screenshots
+models/DeepSeek-OCR-2/assets/
+models/DeepSeek-OCR-2/.gitattributes
+# Explicitly retained portfolio example
+!examples/school-activity-report/*.xlsx
+
+# All model assets are downloaded separately, never uploaded
+models/
+*.safetensors
+*.pt
+*.pth
+

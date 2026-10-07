@@ -1,0 +1,60 @@
+============================================================
+📄 PAGE 1 of 1
+============================================================
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([6, 144, 1280])
+=====================
+<|ref|>sub_title<|/ref|><|det|>[[60, 43, 339, 70]]<|/det|>
+## What I Learned :
+
+<|ref|>text<|/ref|><|det|>[[78, 72, 960, 242]]<|/det|>
+Through this activity, I learned that simple games can teach many important qualities to children. Games are not only for entertainment but also help in developing discipline, teamwork, concentration, confidence and quick response. I learned how to explain rules clearly, organise children in groups and conduct activities safely. I also understood that every child is different and has different abilities, so encouragement and equal opportunities are important. This activity also helped me improve my communication and leadership skills.
+
+<|ref|>sub_title<|/ref|><|det|>[[60, 255, 457, 282]]<|/det|>
+## Overall Impact on Children :
+
+<|ref|>text<|/ref|><|det|>[[84, 288, 604, 311]]<|/det|>
+• Children became more active and confident.
+
+<|ref|>text<|/ref|><|det|>[[85, 313, 543, 336]]<|/det|>
+• They developed better listening skills.
+
+<|ref|>text<|/ref|><|det|>[[85, 339, 669, 361]]<|/det|>
+• Teamwork and cooperation improved among them.
+
+<|ref|>text<|/ref|><|det|>[[85, 363, 728, 386]]<|/det|>
+• They learned to follow rules and wait for their turn.
+
+<|ref|>text<|/ref|><|det|>[[85, 388, 925, 413]]<|/det|>
+• The games helped in improving balance, concentration and quick thinking.
+
+<|ref|>text<|/ref|><|det|>[[85, 412, 866, 435]]<|/det|>
+• The children showed good behaviour and respect towards each other.
+
+<|ref|>text<|/ref|><|det|>[[85, 436, 745, 463]]<|/det|>
+• A positive and happy learning environment was created.
+
+<|ref|>sub_title<|/ref|><|det|>[[61, 478, 240, 504]]<|/det|>
+## Conclusion :
+
+<|ref|>text<|/ref|><|det|>[[72, 510, 950, 710]]<|/det|>
+The teaching games conducted at Saraswati Shiksha Niketan U.P.S. Sallada from 11/07/2025 to 26/07/2025 were a successful and valuable experience. The children participated actively and enjoyed the games. Simple and interesting games such as Musical Chair, Aunty Race, In-Out, Statue Game, Lemon and Spoon Race and Passing the Ball helped in the overall development of the children. These activities improved their confidence, concentration, teamwork, discipline and physical coordination. The programme showed that children can learn many useful qualities through simple and enjoyable games.
+
+<|ref|>sub_title<|/ref|><|det|>[[60, 728, 418, 759]]<|/det|>
+## Suggestions for Future :
+
+<|ref|>text<|/ref|><|det|>[[80, 764, 688, 789]]<|/det|>
+• More such activities should be organised regularly.
+
+<|ref|>text<|/ref|><|det|>[[80, 789, 860, 813]]<|/det|>
+• Different types of games can be introduced to maintain interest.
+
+<|ref|>text<|/ref|><|det|>[[80, 816, 730, 838]]<|/det|>
+• More outdoor space and simple materials can be used.
+
+<|ref|>text<|/ref|><|det|>[[80, 840, 754, 865]]<|/det|>
+• All children should be given opportunities to participate.
+
+<|ref|>text<|/ref|><|det|>[[80, 867, 910, 918]]<|/det|>
+• Games can be combined with small learning activities such as rhymes, counting or general knowledge.

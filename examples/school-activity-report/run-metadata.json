@@ -1,0 +1,10 @@
+{
+  "total_pages": 1,
+  "processing_seconds": 91.41,
+  "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+  "model": "DeepSeek-OCR-2",
+  "base_size": 1024,
+  "image_size": 768,
+  "crop_mode": true,
+  "render_dpi": 200
+}
